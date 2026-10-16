@@ -30,3 +30,11 @@ Conta de destino: Instagram conectado ao Metricool. O post de prova fica como `d
 - SVG: `2026-10-16-pagar-imposto-sem-conferir.svg`
 - Mensagem: 'Pagar imposto sem conferir nao e gestao.'
 - Rascunho no Metricool criado em 2026-10-16, sem publicacao automatica.
+
+## Identificacao profissional obrigatoria
+
+- Responsavel: Victor Pena | Contador | CRC 110131/O-0.
+- Inserir a identificacao nas imagens e na legenda antes de encaminhar para revisao.
+- O perfil e pessoal (@souvictorpena); nao substituir a assinatura pela razao social de outra empresa.
+- Para comunicacao da organizacao contabil, coletar CNPJ e registro da pessoa juridica antes de publicar.
+- Permanecer em rascunho com autoPublish=false ate aprovacao expressa.
